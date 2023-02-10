@@ -4,7 +4,7 @@
 <h1 align="center">SEBASTIAN ORTIZ</h1>
 <h3 align="center">
 Sebastian is a freelance frontend designer and developer
-Peruvian. interested in planning and design to solving real life problems with code. Generate content to build your brand and contribute to the community.</h3>
+Peruvian. interested in planning and design to solving real life problems with code. Generate content to build his brand and contribute to the community.</h3>
 <hr><br>
 
 <h3 align="center">Languages and Tools:</h3>
